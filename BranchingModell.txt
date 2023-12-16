@@ -1,0 +1,4 @@
+Unser Branchingmodell
+
+Für dieses Projekt wurde ein repository auf dem Akkount Vlada187 angelegt.
+Damit wir an diesem Projekt gemeinsam arbeiten konnten, wurde das repository geforked und am Ende wirder gemerged.
