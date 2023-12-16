@@ -1,4 +1,7 @@
 Unser Branchingmodell
 
 Für dieses Projekt wurde ein repository auf dem Akkount Vlada187 angelegt.
-Damit wir an diesem Projekt gemeinsam arbeiten konnten, wurde das repository geforked und am Ende wirder gemerged.
+Damit wir an diesem Projekt gemeinsam arbeiten konnten, wurde das repository geforked und am Ende wieder gemerged.
+Mit Hilfe von Branches haben wir Änderungen vorgenommen und geupsht. Diese wurden dann überprüft.
+Die Prüfung erfolgte über Pull requests. Sofern die Pull requests erfolgreich überprüft wurden, wurden die
+Änderungen gemerged.
